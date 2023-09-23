@@ -20,3 +20,7 @@
 
 #### 6. [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/)
 
+
+#### 7. [Machine Learning With Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
+
